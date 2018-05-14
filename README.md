@@ -1,12 +1,3 @@
----
-title: Babel 基本使用
-tags:
-  - JavaScript
-  - ECMAScript6
-abbrlink: 20171111
-date: 2017-11-11 14:18:16
----
-
 ## Babel 是一个 JavaScript 编译器
 
 JavaScript在不断的发展。各种新标准和提案层出不穷，但浏览器的多样性，导致可能几年内都无法广泛普及，babel可以让你提前使用这些语言特性，它是一种用途很多的Javascript编辑器，把最新版的JavaScript编译成当前可执行的版本，通俗点讲就是，利用babel就可以让我们在当前项目中随意的使用这些最新的ES6,ES7语法。
